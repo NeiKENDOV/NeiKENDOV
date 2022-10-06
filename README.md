@@ -1,6 +1,6 @@
 <h3 align="center">Goblin king from Javaland</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://t.me/neikendov</h3>
 <p align="left">
 </p>
 
